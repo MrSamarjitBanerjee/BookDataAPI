@@ -60,7 +60,7 @@ Pagination: Paged results for books.
 ---
 
 ### Admin Panel
-| Endpoint           | Description                | Method |
-|--------------------|----------------------------|--------|
-| `/adminpanel/`     | Access the admin panel     | N/A    |
+| Endpoint           | Description                
+|--------------------|------------------------
+| `/adminpanel/`     | Access the admin panel     
 

@@ -64,3 +64,28 @@ Pagination: Paged results for books.
 |--------------------|------------------------
 | `/adminpanel/`     | Access the admin panel     
 
+
+## USAGE
+
+Setup Instructions
+1. Clone the repository
+bash
+Copy code
+git clone https://github.com/your-username/book-data-api.git
+cd book-data-api
+2. Install dependencies
+bash
+Copy code
+pip install -r requirements.txt
+3. Run migrations
+bash
+Copy code
+python manage.py migrate
+4. Create a superuser (admin)
+bash
+Copy code
+python manage.py createsuperuser
+5. Run the development server
+bash
+Copy code
+python manage.py runserver

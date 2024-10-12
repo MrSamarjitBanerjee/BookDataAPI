@@ -1,4 +1,4 @@
-﻿# BookDataAPI
+﻿# BookDataAPI  📚
 
 This is a Django-based RESTful API for managing books, reviews, and genres. The API allows authenticated users to view and create reviews, search for books, and admins to manage books and genres. The API is secured with JWT authentication and supports rate-limiting for both anonymous and authenticated users.
 
@@ -15,7 +15,7 @@ JWT Authentication: Secured endpoints using JWT tokens.
 
 Pagination: Paged results for books.
 
-## API Endpoints
+## API Endpoints 🌐
 
 ### Authentication & Account
 | Endpoint                | Description           | Method |

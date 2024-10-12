@@ -15,7 +15,7 @@ JWT Authentication: Secured endpoints using JWT tokens.
 
 Pagination: Paged results for books.
 
-#API Endpoints
+## API Endpoints
 
 ### Authentication & Account
 | Endpoint                | Description           | Method |
